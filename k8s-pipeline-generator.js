@@ -2,7 +2,7 @@
  * k8s-pipeline-generator
  * A Node.js library to generate Kubernetes pipeline configurations for Jenkins and AWS CodePipeline
  * 
- * @author Claude
+ * @author Saba Wasim
  * @version 1.0.0
  */
 
